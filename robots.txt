@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inajaizo.github.io/Qnx/sitemap_index.txt
+Sitemap: https://inajaizo.github.io/Tug/sitemap_index.txt
+Sitemap: https://inajaizo.github.io/voF/sitemap_index.txt
+Sitemap: https://inajaizo.github.io/xYQ/sitemap_index.txt
